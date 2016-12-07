@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\vsdStolenVehMsgServ]
+"DependOnGroup"=hex(7):00,00
+"DependOnService"=hex(7):4d,00,53,00,4d,00,51,00,00,00,00,00
+"Description"="WSP Stolen Vehicle Message Service."
